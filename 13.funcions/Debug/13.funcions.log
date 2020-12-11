@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\13.funcions\13.funcions\Source.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HP\source\repos\13.funcions\13.funcions\Source.cpp(170,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\13.funcions\13.funcions\Source.cpp(180,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\13.funcions\13.funcions\Source.cpp(221,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\13.funcions\13.funcions\Source.cpp(231,28): warning C4018: <: несоответствие типов со знаком и без знака
+  13.funcions.vcxproj -> C:\Users\HP\source\repos\13.funcions\Debug\13.funcions.exe
